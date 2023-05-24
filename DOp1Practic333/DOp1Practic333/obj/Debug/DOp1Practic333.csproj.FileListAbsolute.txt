@@ -1,0 +1,15 @@
+C:\Users\Programmer\source\repos\DOp1Practic333\DOp1Practic333\bin\Debug\DOp1Practic333.exe.config
+C:\Users\Programmer\source\repos\DOp1Practic333\DOp1Practic333\bin\Debug\DOp1Practic333.exe
+C:\Users\Programmer\source\repos\DOp1Practic333\DOp1Practic333\bin\Debug\DOp1Practic333.pdb
+C:\Users\Programmer\source\repos\DOp1Practic333\DOp1Practic333\obj\Debug\DOp1Practic333.csproj.AssemblyReference.cache
+C:\Users\Programmer\source\repos\DOp1Practic333\DOp1Practic333\obj\Debug\MainWindow.g.cs
+C:\Users\Programmer\source\repos\DOp1Practic333\DOp1Practic333\obj\Debug\App.g.cs
+C:\Users\Programmer\source\repos\DOp1Practic333\DOp1Practic333\obj\Debug\DOp1Practic333_MarkupCompile.cache
+C:\Users\Programmer\source\repos\DOp1Practic333\DOp1Practic333\obj\Debug\DOp1Practic333_MarkupCompile.lref
+C:\Users\Programmer\source\repos\DOp1Practic333\DOp1Practic333\obj\Debug\MainWindow.baml
+C:\Users\Programmer\source\repos\DOp1Practic333\DOp1Practic333\obj\Debug\DOp1Practic333.g.resources
+C:\Users\Programmer\source\repos\DOp1Practic333\DOp1Practic333\obj\Debug\DOp1Practic333.Properties.Resources.resources
+C:\Users\Programmer\source\repos\DOp1Practic333\DOp1Practic333\obj\Debug\DOp1Practic333.csproj.GenerateResource.cache
+C:\Users\Programmer\source\repos\DOp1Practic333\DOp1Practic333\obj\Debug\DOp1Practic333.csproj.CoreCompileInputs.cache
+C:\Users\Programmer\source\repos\DOp1Practic333\DOp1Practic333\obj\Debug\DOp1Practic333.exe
+C:\Users\Programmer\source\repos\DOp1Practic333\DOp1Practic333\obj\Debug\DOp1Practic333.pdb
